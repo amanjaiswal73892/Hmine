@@ -1,12 +1,12 @@
 # Hmine
 __________________________________________________________________________________________
----------------------------------------READ ME--------------------------------------------
+
 __________________________________________________________________________________________
 
-# INSTRUCTION  : To run the Project_Main.py (Runs both the algorithm automatically)
+## INSTRUCTION  : To run the Project_Main.py (Runs both the algorithm automatically)
 __________________________________________________________________________________________
 
-# Requirements: 
+## Requirements: 
 3 Datasets provided with the project namely:
               1) Market_Basket_Optimisation.txt
               2) Random_Test.txt
@@ -15,7 +15,7 @@ ________________________________________________________________________________
  The Project_Main.py runs both the H_mine and Apriori algorithm for all the 3 datsets and
   outputs the result into files.
  
-# To Run the program :
+## To Run the program :
  
  1. Open Terminal(Mac) or Cmd(Windows).
 
@@ -46,7 +46,7 @@ Any .txt dataset with items seprated by delimiter = " " can be used.
 
 NOTE :Python interactive shell is used to run the runHmine() or runApriori().
 
-# To Run the module :
+## To Run the module :
  
  1. Open Terminal(Mac) or Cmd(Windows).
 
@@ -83,7 +83,7 @@ NOTE :Python interactive shell is used to run the runHmine() or runApriori().
 
 __________________________________________________________________________________________
 
-# CONTACT INFO
+## CONTACT INFO
 __________________________________________________________________________________________
 __________________________________________________________________________________________
 
